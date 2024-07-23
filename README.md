@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   📫csobrien@uw.edu 
+   📫 csobrien@uw.edu 
 </p>
 
 <p align="left"> 

@@ -5,7 +5,7 @@
 
 <p>This account includes repositories contributing to the ongoing research conducted by Columbia Basin Research.  All repositories are in development and should be considered exploratory work. Final repositories will be featured on CBR's GitHub organization page: 
   <a href="https://github.com/Columbia-Basin-Research-CBR">
-    Columbia Basin Research
+    Columbia-Basin-Research-CBR
   </a>
    <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Columbia-Basin-Research-CBR" height="20" width="20" />.
 </p>

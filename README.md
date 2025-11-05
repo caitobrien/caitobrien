@@ -1,18 +1,12 @@
 
 <h1 align="left">Caitlin O'Brien</h1>
-<p><b>Research Scientist</b>, 
-  Columbia Basin Research, School of Aquatic and Fishery Sciences, University of Washington</p>
+<p><b>Research Scientist</b>
 
-<p>This account includes repositories contributing to the ongoing research conducted by Columbia Basin Research.  All repositories are in development and should be considered exploratory work. Final repositories will be featured on CBR's GitHub organization page: 
-  <a href="https://github.com/Columbia-Basin-Research-CBR">
-    Columbia-Basin-Research-CBR
-  </a>
-   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Columbia-Basin-Research-CBR" height="20" width="20" />.
-</p>
+<p>All repositories are in development and should be considered exploratory work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   📫 csobrien@uw.edu 
+   📫 caitlin.obrien07@gmail.com
 </p>
 
 <p align="left"> 
